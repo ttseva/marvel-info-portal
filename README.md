@@ -33,3 +33,5 @@ npm start
 После запуска:
 - Главная страница: `http://localhost:3000/`
 - Страница комиксов: `http://localhost:3000/comics`
+
+@ttseva • 2026
